@@ -1,2 +1,4 @@
-# Openweather_API
-Code with openweather api integration, search any city for weather information
+# Description
+- Code with openweather API integration
+- Search any city for weather information
+- Link for Openweather website (<a src="https://openweathermap.org"> )
