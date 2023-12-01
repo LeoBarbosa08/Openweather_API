@@ -8,3 +8,4 @@
 
 ![image](https://github.com/LeoBarbosa08/Openweather_API/assets/84389162/17718165-7639-43b2-8bcc-294513dc10ef)
 
+- After this click on <b>APPLY</b> now you can run the application without erros 
